@@ -23,26 +23,28 @@ I began by thoroughly understanding the dataset and exploring its structure and 
 I had to clean the data to ensure consistency and accuracy. This included refining the "Entity" column, which contained a mix of countries, regions, and groups, to focus on countries only.
 
 ![Discrepancies in entity column](image-1.png)
+
 *Figure 2: Discrepancies in entity column*
 
 I also filtered out unnecessary information and removed entries with missing data. Additionally, I reduced the number of decimal places in the data for a cleaner presentation. Also, since the dataset spanned a lengthy period (1990 to 2017), I narrowed the focus of my analysis to the years 2000 to 2017 for a more relevant and manageable analysis. After this process, I was left with 5,460 entries and 10 columns; then, I called up my pivot table to begin my analysis.
 
 ![Post-data cleaning](image-2.png)
+
 *Figure 3: Post-data cleaning*
 
 I created visuals and key metrics directly within the pivot table page to explore different aspects of the data.
 
 ![Pivot table with visuals](image-3.png)
 ![Pivot table with visuals](image-4.png)
+
 *Figure 4: Pivot table wth visuals*
 
 Once I had brought up all the necessary KPIs and charts, I created a new sheet to design my dashboard, bringing together the key insights in a more interactive and visually appealing format.
 
 ![Final dashboard](<Mental Health disorder Excel Dashboard-1.png>)
+
 *Figure 5: Final Dashboard*
 
-![Final dashboard](image-6.png)
-*Figure 5: Final Dashboard*
 
 **Key Metrics Identified** 📈
 1. Average Disorder Prevalence Rates (across all disorders)
@@ -64,6 +66,7 @@ Once I had brought up all the necessary KPIs and charts, I created a new sheet t
 *→ Integrating mental health screening and treatment into primary healthcare can ensure early diagnosis, while schools and universities should focus on youth mental health* by providing education and counselling services.*
 
 *→ Additionally, promoting healthy lifestyle changes, such as physical activity and proper nutrition, can help alleviate symptoms and improve overall mental well-being.*
+
 
 In conclusion, this analysis reveals global trends in mental health disorders, with anxiety and depression being the most common. Identifying these patterns allows governments and healthcare organizations to focus on high-prevalence areas, improving resource allocation and informing better public health interventions.
 
