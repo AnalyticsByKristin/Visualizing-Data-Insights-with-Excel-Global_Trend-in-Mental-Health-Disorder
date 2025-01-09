@@ -1,12 +1,6 @@
 
 # Visualizing Data Insights with Excel: Global Trend in Mental Health Disorder
 
-Earlier this year, I decided to embark on a self-development journey in data analytics with the goal of pursuing it as a career path. In July 2024, I officially began by enrolling in a course hosted by Quantum Analytics, where I improved my skills in Excel and started learning two powerful new tools: Power BI and PostgreSQL.
-
-The experience has been exciting and challenging because each new idea has pushed me out of my comfort zone, encouraging me to adapt and learn quickly. To track my progress and showcase my journey, I have created a Medium blog and GitHub repository. These platforms will serve as my portfolio, allowing me to document my growth, share insights, and present projects that reflect the skills and techniques I have acquired along the way.
-
-This is the first of many posts as I continue to share my experiences and progress in the world of data analytics!
-
 In this project, I apply Excel to visualize key insights from a dataset on global trends in mental health disorders. I chose Excel for its versatility, making it an ideal tool to practice the skills I gained during my data analytics training while delivering a clear and comprehensive view of the data.
 
 The analysis aims to uncover the prevalence and trends of mental health disorders over time, identify countries with the highest rates of specific mental health disorders, examine canges over time, and provide recommendations for public health interventions, resource allocation, and mental health policy improvements.
